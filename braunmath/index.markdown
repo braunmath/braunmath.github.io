@@ -4,9 +4,3 @@
 
 layout: home
 ---
-
-Benjamin Braun
-Professor of Mathematics
-University of Kentucky
-
-<a href="/MA415G">MA415G Course Notes</a>
